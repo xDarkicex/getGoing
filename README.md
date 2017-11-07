@@ -18,9 +18,9 @@ version = 1.0.0
 getGoing supports two template types
 
 * basic
-** has no folder structure just a main file
+..* has no folder structure just a main file
 * MVC(Model, View, Controller)
-** has MVC folder structure
+..* has MVC folder structure
 
 
 ```

@@ -29,3 +29,9 @@ getGoing supports two template types
 ```
 ./getGoing -new="project_name" -template="basic"
 ```
+
+----
+
+##TODOS
+- [ ] Add option for orm driver insertion
+- [ ] Add option to setup model sructs in CLI

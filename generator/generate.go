@@ -183,7 +183,7 @@ func writeToFile(file *os.File) {
 		}
 		defer file.Close()
 	case "README.md":
-		data := []byte("#Basic Readme file\n\r\n\r\nfile generated from getGoing!")
+		data := []byte("# Basic Readme file\n\r\n\r\nfile generated from getGoing!")
 		_, err = file.Write(data)
 		if err != nil {
 			log.Fatal(err)

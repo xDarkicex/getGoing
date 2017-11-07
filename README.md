@@ -32,6 +32,6 @@ getGoing supports two template types
 
 ----
 
-##TODOS
+## TODOS
 - [ ] Add option for orm driver insertion
 - [ ] Add option to setup model sructs in CLI
